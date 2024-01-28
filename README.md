@@ -2,6 +2,7 @@
 # Submitted by: CHELSI
 # Roll no.: 102117161
 # Group: 3CS6
+# Access at: https://pypi.org/project/Topsis-Chelsi-102117161/1.0/  
 This package implements the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method for multi-criteria decision-making.  
 Link to Assn:(https://github.com/psrana/Assignment-Topsis)  
 Input dataset: 102117161-data.xlsx  
