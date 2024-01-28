@@ -8,15 +8,15 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
 VERSION = '1.0'
-DESCRIPTION = 'Topsis'
+DESCRIPTION = 'Topsis-Chelsi-102117161'
 LONG_DESCRIPTION = 'A multi-criteria decision-making method used to determine the best choice among a set of alternatives'
 
 # Setting up
 setup(
-    name="Topsis",
+    name="Topsis-Chelsi-102117161",
     version=VERSION,
     author="CHELSI",
-    author_email="<mail@cchelsi_be21@thapar.edu>",
+    author_email="<cchelsi_be21@thapar.edu>",
     description='A package for performing TOPSIS analysis',
     long_description_content_type="text/markdown",
     long_description=long_description,
